@@ -1,0 +1,2 @@
+drop table student
+drop table employee

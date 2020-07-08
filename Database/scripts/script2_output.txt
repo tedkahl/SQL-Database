@@ -1,0 +1,6 @@
+[1]drop table student
+SQL: student dropped.
+SQL: DONE.
+[2]drop table employee
+SQL: employee dropped.
+SQL: DONE.

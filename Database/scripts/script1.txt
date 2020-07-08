@@ -1,0 +1,7 @@
+drop table student
+make table student fields    fname,                 lname, major,                       age
+insert into student values   Flo,             Yao,       CS, 20
+insert into student values   "Flo",                 "Jackson",  Math,  21
+insert into student values   Calvin,          Woo,       Physics,22
+insert into student values   "Anna Grace",    "Del Rio",  CS,    22
+select * from student where age>25

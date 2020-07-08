@@ -1,0 +1,12 @@
+[1]select * from student where age>25
+Table name: , records: 0
+	fname	lname	major	age	
+SQL: DONE.
+[2]insert into student values Ted, Kahl, CS, 29
+SQL: Inserted
+SQL: DONE.
+[3]select * from student where age>25
+Table name: , records: 1
+	fname	lname	major	age	
+0.Ted	Kahl	CS	29	
+SQL: DONE.
